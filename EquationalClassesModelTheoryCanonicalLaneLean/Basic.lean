@@ -1,0 +1,2 @@
+import EquationalClassesModelTheoryCanonicalLaneLean.GateLemmas
+import EquationalClassesModelTheoryCanonicalLaneLean.FinalTheorem
